@@ -8,7 +8,6 @@
 好消息17台,http://live.streamingfast.net/osmflivech17.m3u8
 好消息18台,http://live.streamingfast.net/osmflivech18.m3u8
 好消息19台,http://live.streamingfast.net/osmflivech19.m3u8
-电影，#genre#
 杰森斯坦森,http://aldirect.hls.huya.com/backsrc/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1.flv
 好莱坞动作大片,http://aldirect.hls.huya.com/backsrc/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1.flv
 成龙,http://aldirect.hls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.flv
